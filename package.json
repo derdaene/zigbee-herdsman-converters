@@ -47,4 +47,19 @@
     "fast-deep-equal": "*",
     "jest": "*"
   }
+"dependencies": {
+
+"zigbee-herdsman": "0.13.117",
+
+"zigbee-herdsman-converters": "14.0.192",
+
+"@iobroker/adapter-core": "^2.4.0",
+
+"tar": "^6.0.5",
+
+"typescript": "^4.0.5"
+
+},
+
+
 }
